@@ -1,0 +1,54 @@
+﻿body
+{
+    background-color:antiquewhite;
+}
+h1 {
+    text-align: center;
+    font-size: 40px;
+    font-family: Calibri;
+}
+.navbar{
+    overflow:hidden;
+}
+    .navbar a {
+        text-decoration: none;
+        text-align: center;
+        font-size: 25px;
+        color: black;
+        padding: 5px;
+        font-family: Calibri;
+    }
+.navbar a:hover{
+    zoom: 125%;
+    text-decoration: underline;
+}
+.intro{
+    text-align:center;
+    font-size: 25px;
+    font-family:Calibri;
+}
+.purpose {
+    text-align: center;
+    font-size: 25px;
+    font-family: Calibri;
+}
+.aboutme {
+    font-size: 25px;
+    font-family: Calibri;
+}
+.projects {
+    
+    font-size: 25px;
+    font-family: Calibri;
+    text-decoration: none;
+}
+.skillsets {
+    font-size: 25px;
+    font-family: Calibri;
+    text-decoration: none;
+}
+.character {
+    font-size: 25px;
+    font-family: Calibri;
+    text-decoration: none;
+}
